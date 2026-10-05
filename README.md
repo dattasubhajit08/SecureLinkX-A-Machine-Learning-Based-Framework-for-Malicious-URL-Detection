@@ -115,7 +115,8 @@ The experimental results show that **Random Forest achieved the best overall per
 * **KNN** achieved good performance but was comparatively lower than the other models.
 * The experiments demonstrate that machine learning can effectively identify malicious URL patterns.
 
----
+<img width="631" height="161" alt="image" src="https://github.com/user-attachments/assets/8667aacd-e12f-43a0-96b4-d480a86268b6" />
+
 
 ## 🛠️ Technologies Used
 
