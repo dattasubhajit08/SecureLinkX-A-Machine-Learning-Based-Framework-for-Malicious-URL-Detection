@@ -283,17 +283,8 @@ Provides a balance between precision and recall.
 
 Shows:
 
-```text
-                 Predicted
-              Benign  Malicious
+<img width="562" height="390" alt="image" src="https://github.com/user-attachments/assets/41837555-6467-4b10-b1e4-af1fe93c43e9" />
 
-Actual
-Benign       →  TN       FP
-
-Malicious    →  FN       TP
-```
-
----
 
 ## 💡 Key Contribution
 
