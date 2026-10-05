@@ -50,7 +50,8 @@ The project uses the **PhiUSIIL Phishing URL Dataset**.
 
 For computational efficiency, a balanced subset of **5,000 URLs** was selected for the main experiments.
 
----
+<img width="389" height="389" alt="image" src="https://github.com/user-attachments/assets/c29366e5-26ad-43ac-813d-3dbe1f63b675" />
+
 
 ## 🧠 Machine Learning Models
 
