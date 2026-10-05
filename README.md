@@ -70,51 +70,7 @@ The following six machine learning algorithms were implemented and compared:
 
 The overall workflow of SecureLinkX is:
 
-```text
-                 ┌──────────────────────┐
-                 │       Dataset        │
-                 │   5,000 URLs         │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │ Data Preprocessing   │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │ Feature Extraction   │
-                 │ & Feature Selection  │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │ 70% Training Data    │
-                 │ 30% Testing Data     │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-              ┌─────────────────────────────┐
-              │   Machine Learning Models  │
-              ├─────────────────────────────┤
-              │ Decision Tree               │
-              │ Random Forest               │
-              │ Logistic Regression         │
-              │ Naive Bayes                 │
-              │ KNN                         │
-              │ SVM                         │
-              └──────────────┬──────────────┘
-                             │
-                             ▼
-                 ┌──────────────────────┐
-                 │ Model Evaluation     │
-                 │ Accuracy             │
-                 │ Precision            │
-                 │ Recall               │
-                 │ F1-Score             │
-                 │ Confusion Matrix     │
-                 └──────────────────────┘
-```
+<img width="784" height="478" alt="image" src="https://github.com/user-attachments/assets/0f8fbba5-ec93-4e5b-91a0-5af02ad24677" />
 
 ---
 
